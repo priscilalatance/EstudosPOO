@@ -1,0 +1,16 @@
+C:\Users\Priscila\Desktop\Teste7\TrabalhandoComListas\bin\Debug\net5.0\TrabalhandoComListas.exe
+C:\Users\Priscila\Desktop\Teste7\TrabalhandoComListas\bin\Debug\net5.0\TrabalhandoComListas.deps.json
+C:\Users\Priscila\Desktop\Teste7\TrabalhandoComListas\bin\Debug\net5.0\TrabalhandoComListas.runtimeconfig.json
+C:\Users\Priscila\Desktop\Teste7\TrabalhandoComListas\bin\Debug\net5.0\TrabalhandoComListas.runtimeconfig.dev.json
+C:\Users\Priscila\Desktop\Teste7\TrabalhandoComListas\bin\Debug\net5.0\TrabalhandoComListas.dll
+C:\Users\Priscila\Desktop\Teste7\TrabalhandoComListas\bin\Debug\net5.0\ref\TrabalhandoComListas.dll
+C:\Users\Priscila\Desktop\Teste7\TrabalhandoComListas\bin\Debug\net5.0\TrabalhandoComListas.pdb
+C:\Users\Priscila\Desktop\Teste7\TrabalhandoComListas\obj\Debug\net5.0\TrabalhandoComListas.csproj.AssemblyReference.cache
+C:\Users\Priscila\Desktop\Teste7\TrabalhandoComListas\obj\Debug\net5.0\TrabalhandoComListas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Priscila\Desktop\Teste7\TrabalhandoComListas\obj\Debug\net5.0\TrabalhandoComListas.AssemblyInfoInputs.cache
+C:\Users\Priscila\Desktop\Teste7\TrabalhandoComListas\obj\Debug\net5.0\TrabalhandoComListas.AssemblyInfo.cs
+C:\Users\Priscila\Desktop\Teste7\TrabalhandoComListas\obj\Debug\net5.0\TrabalhandoComListas.csproj.CoreCompileInputs.cache
+C:\Users\Priscila\Desktop\Teste7\TrabalhandoComListas\obj\Debug\net5.0\TrabalhandoComListas.dll
+C:\Users\Priscila\Desktop\Teste7\TrabalhandoComListas\obj\Debug\net5.0\ref\TrabalhandoComListas.dll
+C:\Users\Priscila\Desktop\Teste7\TrabalhandoComListas\obj\Debug\net5.0\TrabalhandoComListas.pdb
+C:\Users\Priscila\Desktop\Teste7\TrabalhandoComListas\obj\Debug\net5.0\TrabalhandoComListas.genruntimeconfig.cache

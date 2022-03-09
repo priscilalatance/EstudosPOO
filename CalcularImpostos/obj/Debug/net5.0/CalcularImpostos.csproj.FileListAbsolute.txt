@@ -1,0 +1,16 @@
+C:\Users\Priscila\Desktop\Teste4\CalcularImpostos\bin\Debug\net5.0\CalcularImpostos.exe
+C:\Users\Priscila\Desktop\Teste4\CalcularImpostos\bin\Debug\net5.0\CalcularImpostos.deps.json
+C:\Users\Priscila\Desktop\Teste4\CalcularImpostos\bin\Debug\net5.0\CalcularImpostos.runtimeconfig.json
+C:\Users\Priscila\Desktop\Teste4\CalcularImpostos\bin\Debug\net5.0\CalcularImpostos.runtimeconfig.dev.json
+C:\Users\Priscila\Desktop\Teste4\CalcularImpostos\bin\Debug\net5.0\CalcularImpostos.dll
+C:\Users\Priscila\Desktop\Teste4\CalcularImpostos\bin\Debug\net5.0\ref\CalcularImpostos.dll
+C:\Users\Priscila\Desktop\Teste4\CalcularImpostos\bin\Debug\net5.0\CalcularImpostos.pdb
+C:\Users\Priscila\Desktop\Teste4\CalcularImpostos\obj\Debug\net5.0\CalcularImpostos.csproj.AssemblyReference.cache
+C:\Users\Priscila\Desktop\Teste4\CalcularImpostos\obj\Debug\net5.0\CalcularImpostos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Priscila\Desktop\Teste4\CalcularImpostos\obj\Debug\net5.0\CalcularImpostos.AssemblyInfoInputs.cache
+C:\Users\Priscila\Desktop\Teste4\CalcularImpostos\obj\Debug\net5.0\CalcularImpostos.AssemblyInfo.cs
+C:\Users\Priscila\Desktop\Teste4\CalcularImpostos\obj\Debug\net5.0\CalcularImpostos.csproj.CoreCompileInputs.cache
+C:\Users\Priscila\Desktop\Teste4\CalcularImpostos\obj\Debug\net5.0\CalcularImpostos.dll
+C:\Users\Priscila\Desktop\Teste4\CalcularImpostos\obj\Debug\net5.0\ref\CalcularImpostos.dll
+C:\Users\Priscila\Desktop\Teste4\CalcularImpostos\obj\Debug\net5.0\CalcularImpostos.pdb
+C:\Users\Priscila\Desktop\Teste4\CalcularImpostos\obj\Debug\net5.0\CalcularImpostos.genruntimeconfig.cache

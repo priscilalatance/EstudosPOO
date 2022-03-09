@@ -1,0 +1,16 @@
+C:\Users\Priscila\Desktop\Teste4\ContarLetrasUltimaPalavra\obj\Debug\net5.0\ContarLetrasUltimaPalavra.csproj.AssemblyReference.cache
+C:\Users\Priscila\Desktop\Teste4\ContarLetrasUltimaPalavra\obj\Debug\net5.0\ContarLetrasUltimaPalavra.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Priscila\Desktop\Teste4\ContarLetrasUltimaPalavra\obj\Debug\net5.0\ContarLetrasUltimaPalavra.AssemblyInfoInputs.cache
+C:\Users\Priscila\Desktop\Teste4\ContarLetrasUltimaPalavra\obj\Debug\net5.0\ContarLetrasUltimaPalavra.AssemblyInfo.cs
+C:\Users\Priscila\Desktop\Teste4\ContarLetrasUltimaPalavra\obj\Debug\net5.0\ContarLetrasUltimaPalavra.csproj.CoreCompileInputs.cache
+C:\Users\Priscila\Desktop\Teste4\ContarLetrasUltimaPalavra\bin\Debug\net5.0\ContarLetrasUltimaPalavra.exe
+C:\Users\Priscila\Desktop\Teste4\ContarLetrasUltimaPalavra\bin\Debug\net5.0\ContarLetrasUltimaPalavra.deps.json
+C:\Users\Priscila\Desktop\Teste4\ContarLetrasUltimaPalavra\bin\Debug\net5.0\ContarLetrasUltimaPalavra.runtimeconfig.json
+C:\Users\Priscila\Desktop\Teste4\ContarLetrasUltimaPalavra\bin\Debug\net5.0\ContarLetrasUltimaPalavra.runtimeconfig.dev.json
+C:\Users\Priscila\Desktop\Teste4\ContarLetrasUltimaPalavra\bin\Debug\net5.0\ContarLetrasUltimaPalavra.dll
+C:\Users\Priscila\Desktop\Teste4\ContarLetrasUltimaPalavra\bin\Debug\net5.0\ref\ContarLetrasUltimaPalavra.dll
+C:\Users\Priscila\Desktop\Teste4\ContarLetrasUltimaPalavra\bin\Debug\net5.0\ContarLetrasUltimaPalavra.pdb
+C:\Users\Priscila\Desktop\Teste4\ContarLetrasUltimaPalavra\obj\Debug\net5.0\ContarLetrasUltimaPalavra.dll
+C:\Users\Priscila\Desktop\Teste4\ContarLetrasUltimaPalavra\obj\Debug\net5.0\ref\ContarLetrasUltimaPalavra.dll
+C:\Users\Priscila\Desktop\Teste4\ContarLetrasUltimaPalavra\obj\Debug\net5.0\ContarLetrasUltimaPalavra.pdb
+C:\Users\Priscila\Desktop\Teste4\ContarLetrasUltimaPalavra\obj\Debug\net5.0\ContarLetrasUltimaPalavra.genruntimeconfig.cache

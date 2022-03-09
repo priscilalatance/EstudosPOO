@@ -1,0 +1,16 @@
+C:\Users\Priscila\Desktop\Teste8\RendaDoFuncionario\bin\Debug\net5.0\RendaDoFuncionario.exe
+C:\Users\Priscila\Desktop\Teste8\RendaDoFuncionario\bin\Debug\net5.0\RendaDoFuncionario.deps.json
+C:\Users\Priscila\Desktop\Teste8\RendaDoFuncionario\bin\Debug\net5.0\RendaDoFuncionario.runtimeconfig.json
+C:\Users\Priscila\Desktop\Teste8\RendaDoFuncionario\bin\Debug\net5.0\RendaDoFuncionario.runtimeconfig.dev.json
+C:\Users\Priscila\Desktop\Teste8\RendaDoFuncionario\bin\Debug\net5.0\RendaDoFuncionario.dll
+C:\Users\Priscila\Desktop\Teste8\RendaDoFuncionario\bin\Debug\net5.0\ref\RendaDoFuncionario.dll
+C:\Users\Priscila\Desktop\Teste8\RendaDoFuncionario\bin\Debug\net5.0\RendaDoFuncionario.pdb
+C:\Users\Priscila\Desktop\Teste8\RendaDoFuncionario\obj\Debug\net5.0\RendaDoFuncionario.csproj.AssemblyReference.cache
+C:\Users\Priscila\Desktop\Teste8\RendaDoFuncionario\obj\Debug\net5.0\RendaDoFuncionario.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Priscila\Desktop\Teste8\RendaDoFuncionario\obj\Debug\net5.0\RendaDoFuncionario.AssemblyInfoInputs.cache
+C:\Users\Priscila\Desktop\Teste8\RendaDoFuncionario\obj\Debug\net5.0\RendaDoFuncionario.AssemblyInfo.cs
+C:\Users\Priscila\Desktop\Teste8\RendaDoFuncionario\obj\Debug\net5.0\RendaDoFuncionario.csproj.CoreCompileInputs.cache
+C:\Users\Priscila\Desktop\Teste8\RendaDoFuncionario\obj\Debug\net5.0\RendaDoFuncionario.dll
+C:\Users\Priscila\Desktop\Teste8\RendaDoFuncionario\obj\Debug\net5.0\ref\RendaDoFuncionario.dll
+C:\Users\Priscila\Desktop\Teste8\RendaDoFuncionario\obj\Debug\net5.0\RendaDoFuncionario.pdb
+C:\Users\Priscila\Desktop\Teste8\RendaDoFuncionario\obj\Debug\net5.0\RendaDoFuncionario.genruntimeconfig.cache

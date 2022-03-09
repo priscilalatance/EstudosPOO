@@ -1,0 +1,16 @@
+C:\Users\Priscila\Desktop\Teste2\MaiorNumeroSequencia\bin\Debug\net5.0\MaiorNumeroSequencia.exe
+C:\Users\Priscila\Desktop\Teste2\MaiorNumeroSequencia\bin\Debug\net5.0\MaiorNumeroSequencia.deps.json
+C:\Users\Priscila\Desktop\Teste2\MaiorNumeroSequencia\bin\Debug\net5.0\MaiorNumeroSequencia.runtimeconfig.json
+C:\Users\Priscila\Desktop\Teste2\MaiorNumeroSequencia\bin\Debug\net5.0\MaiorNumeroSequencia.runtimeconfig.dev.json
+C:\Users\Priscila\Desktop\Teste2\MaiorNumeroSequencia\bin\Debug\net5.0\MaiorNumeroSequencia.dll
+C:\Users\Priscila\Desktop\Teste2\MaiorNumeroSequencia\bin\Debug\net5.0\ref\MaiorNumeroSequencia.dll
+C:\Users\Priscila\Desktop\Teste2\MaiorNumeroSequencia\bin\Debug\net5.0\MaiorNumeroSequencia.pdb
+C:\Users\Priscila\Desktop\Teste2\MaiorNumeroSequencia\obj\Debug\net5.0\MaiorNumeroSequencia.csproj.AssemblyReference.cache
+C:\Users\Priscila\Desktop\Teste2\MaiorNumeroSequencia\obj\Debug\net5.0\MaiorNumeroSequencia.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Priscila\Desktop\Teste2\MaiorNumeroSequencia\obj\Debug\net5.0\MaiorNumeroSequencia.AssemblyInfoInputs.cache
+C:\Users\Priscila\Desktop\Teste2\MaiorNumeroSequencia\obj\Debug\net5.0\MaiorNumeroSequencia.AssemblyInfo.cs
+C:\Users\Priscila\Desktop\Teste2\MaiorNumeroSequencia\obj\Debug\net5.0\MaiorNumeroSequencia.csproj.CoreCompileInputs.cache
+C:\Users\Priscila\Desktop\Teste2\MaiorNumeroSequencia\obj\Debug\net5.0\MaiorNumeroSequencia.dll
+C:\Users\Priscila\Desktop\Teste2\MaiorNumeroSequencia\obj\Debug\net5.0\ref\MaiorNumeroSequencia.dll
+C:\Users\Priscila\Desktop\Teste2\MaiorNumeroSequencia\obj\Debug\net5.0\MaiorNumeroSequencia.pdb
+C:\Users\Priscila\Desktop\Teste2\MaiorNumeroSequencia\obj\Debug\net5.0\MaiorNumeroSequencia.genruntimeconfig.cache

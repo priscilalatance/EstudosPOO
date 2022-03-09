@@ -1,0 +1,16 @@
+C:\Users\Priscila\Desktop\Teste4\CaixaMercado\bin\Debug\net5.0\CaixaMercado.exe
+C:\Users\Priscila\Desktop\Teste4\CaixaMercado\bin\Debug\net5.0\CaixaMercado.deps.json
+C:\Users\Priscila\Desktop\Teste4\CaixaMercado\bin\Debug\net5.0\CaixaMercado.runtimeconfig.json
+C:\Users\Priscila\Desktop\Teste4\CaixaMercado\bin\Debug\net5.0\CaixaMercado.runtimeconfig.dev.json
+C:\Users\Priscila\Desktop\Teste4\CaixaMercado\bin\Debug\net5.0\CaixaMercado.dll
+C:\Users\Priscila\Desktop\Teste4\CaixaMercado\bin\Debug\net5.0\ref\CaixaMercado.dll
+C:\Users\Priscila\Desktop\Teste4\CaixaMercado\bin\Debug\net5.0\CaixaMercado.pdb
+C:\Users\Priscila\Desktop\Teste4\CaixaMercado\obj\Debug\net5.0\CaixaMercado.csproj.AssemblyReference.cache
+C:\Users\Priscila\Desktop\Teste4\CaixaMercado\obj\Debug\net5.0\CaixaMercado.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Priscila\Desktop\Teste4\CaixaMercado\obj\Debug\net5.0\CaixaMercado.AssemblyInfoInputs.cache
+C:\Users\Priscila\Desktop\Teste4\CaixaMercado\obj\Debug\net5.0\CaixaMercado.AssemblyInfo.cs
+C:\Users\Priscila\Desktop\Teste4\CaixaMercado\obj\Debug\net5.0\CaixaMercado.csproj.CoreCompileInputs.cache
+C:\Users\Priscila\Desktop\Teste4\CaixaMercado\obj\Debug\net5.0\CaixaMercado.dll
+C:\Users\Priscila\Desktop\Teste4\CaixaMercado\obj\Debug\net5.0\ref\CaixaMercado.dll
+C:\Users\Priscila\Desktop\Teste4\CaixaMercado\obj\Debug\net5.0\CaixaMercado.pdb
+C:\Users\Priscila\Desktop\Teste4\CaixaMercado\obj\Debug\net5.0\CaixaMercado.genruntimeconfig.cache
